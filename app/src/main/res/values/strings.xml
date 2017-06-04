@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">$ Left</string>
+    <string name="perDayHeaderText">Per Day</string>
+    <string name="perDayText">999</string>
+    <string name="daysTillSalaryHeaderText">Days Till Salary</string>
+    <string name="daysTillSalaryText">10</string>
+    <string name="totalAmountHeaderText">Total Amount</string>
+    <string name="totalAmountText">9999</string>
+    <string name="preferenceFileKey">preferences</string>
+
+</resources>
